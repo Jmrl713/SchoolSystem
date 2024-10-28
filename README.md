@@ -1,6 +1,6 @@
-# c4uu
+# School System
 
-A new Flutter project.
+A school system that uses Flutter Flow UI and php mysql database.
 
 ## Getting Started
 
